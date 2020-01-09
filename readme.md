@@ -1,0 +1,1 @@
+# Repository contains a repro for possible issue related to the Microsoft.AspNetCore.Mvc.Testing
